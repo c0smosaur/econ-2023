@@ -1,2 +1,2 @@
 # econ-2023
-Econimical Numeral Analysis &amp; Econometrics
+Economical Numeral Analysis &amp; Econometrics
